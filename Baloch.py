@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import p_Fixed
+    import p_Fixed_Fixed
 
     
 
